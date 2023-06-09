@@ -65,7 +65,7 @@ div#formulario >p{
 form > div.campo{
     background-color:rgba(0, 0, 0, 0.938);
     border: 2px solid;
-    width: 100%;
+    width: 95%;
     display: block;
     height: 40px;
     border-radius: 8px;
@@ -85,12 +85,12 @@ div.campo > span{
 div.campo >input{
     background-color: #F2AC00;
     font-size: 1em;
-    height: 100%;
+    height: 95%;
     width: calc(100% - 44.4px);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-12.7px);
+    transform: translateY(-12.4px);
 }
 div.campo > input:focus-within{
     background-color: white;
@@ -100,7 +100,7 @@ div.campo > input:focus-within{
 form#login > input {
     display: block;
     font-size: 1em;
-    width: 100%;
+    width: 95%;
     height: 30px;
     padding-top: 2px;
     background-color: #F2AC00;
@@ -119,7 +119,7 @@ form> a.botao{
     text-align: center;
     display: block;
     font-size: 1em;
-    width: 100%;
+    width: 95%;
     height: 30px;
     padding-top: 2px;
     margin-top: 5px;
